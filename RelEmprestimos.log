@@ -1,0 +1,101 @@
+Line 14: Class ReportX.ReportMain of control Relatorio was not a loaded control class.
+Line 26: Class ReportX.ReportSection of control ReportSection3 was not a loaded control class.
+Line 36: Class ReportX.ReportField of control ReportField2 was not a loaded control class.
+Line 59: Class ReportX.ReportSection of control ReportSection1 was not a loaded control class.
+Line 68: Class ReportX.ReportField of control ReportField1 was not a loaded control class.
+Line 88: Class ReportX.ReportSection of control ReportSection2 was not a loaded control class.
+Line 96: Class ReportX.ReportField of control ReportField16 was not a loaded control class.
+Line 116: Class ReportX.ReportField of control ReportField15 was not a loaded control class.
+Line 136: Class ReportX.ReportField of control ReportField11 was not a loaded control class.
+Line 156: Class ReportX.ReportField of control ReportField5 was not a loaded control class.
+Line 177: Class ReportX.ReportField of control ReportField4 was not a loaded control class.
+Line 197: Class ReportX.ReportField of control ReportField10 was not a loaded control class.
+Line 217: Class ReportX.ReportField of control ReportField3 was not a loaded control class.
+Line 237: Class ReportX.ReportField of control ReportField6 was not a loaded control class.
+Line 257: Class ReportX.ReportField of control ReportField7 was not a loaded control class.
+Line 277: Class ReportX.ReportField of control ReportField8 was not a loaded control class.
+Line 297: Class ReportX.ReportField of control ReportField9 was not a loaded control class.
+Line 317: Class ReportX.ReportField of control ReportField12 was not a loaded control class.
+Line 337: Class ReportX.ReportField of control ReportField13 was not a loaded control class.
+Line 357: Class ReportX.ReportField of control ReportField14 was not a loaded control class.
+Line 377: Class ReportX.ReportField of control ReportField17 was not a loaded control class.
+Line 397: Class ReportX.ReportField of control ReportField18 was not a loaded control class.
+Line 20: The property name _ExtentX in Relatorio is invalid.
+Line 21: The property name _ExtentY in Relatorio is invalid.
+Line 22: The property name Pagina in Relatorio is invalid.
+Line 23: The property name Titulo in Relatorio is invalid.
+Line 24: The property name Registrado in Relatorio is invalid.
+Line 32: The property name _ExtentX in ReportSection3 is invalid.
+Line 33: The property name _ExtentY in ReportSection3 is invalid.
+Line 34: The property name Tipo in ReportSection3 is invalid.
+Line 35: The property name Ordem in ReportSection3 is invalid.
+Line 42: The property name _ExtentX in ReportField2 is invalid.
+Line 43: The property name _ExtentY in ReportField2 is invalid.
+Line 44: The property name Linhas in ReportField2 is invalid.
+Line 45: The property name Campo in ReportField2 is invalid.
+Line 46: The property name Caption in ReportField2 is invalid.
+Line 47: The property name Formula in ReportField2 is invalid.
+Line 65: The property name _ExtentX in ReportSection1 is invalid.
+Line 66: The property name _ExtentY in ReportSection1 is invalid.
+Line 67: The property name Tipo in ReportSection1 is invalid.
+Line 74: The property name _ExtentX in ReportField1 is invalid.
+Line 75: The property name _ExtentY in ReportField1 is invalid.
+Line 76: The property name Caption in ReportField1 is invalid.
+Line 94: The property name _ExtentX in ReportSection2 is invalid.
+Line 95: The property name _ExtentY in ReportSection2 is invalid.
+Line 102: The property name _ExtentX in ReportField16 is invalid.
+Line 103: The property name _ExtentY in ReportField16 is invalid.
+Line 104: The property name Caption in ReportField16 is invalid.
+Line 122: The property name _ExtentX in ReportField15 is invalid.
+Line 123: The property name _ExtentY in ReportField15 is invalid.
+Line 124: The property name Campo in ReportField15 is invalid.
+Line 125: The property name Caption in ReportField15 is invalid.
+Line 142: The property name _ExtentX in ReportField11 is invalid.
+Line 143: The property name _ExtentY in ReportField11 is invalid.
+Line 144: The property name Campo in ReportField11 is invalid.
+Line 145: The property name Caption in ReportField11 is invalid.
+Line 163: The property name _ExtentX in ReportField5 is invalid.
+Line 164: The property name _ExtentY in ReportField5 is invalid.
+Line 165: The property name Caption in ReportField5 is invalid.
+Line 183: The property name _ExtentX in ReportField4 is invalid.
+Line 184: The property name _ExtentY in ReportField4 is invalid.
+Line 185: The property name Caption in ReportField4 is invalid.
+Line 203: The property name _ExtentX in ReportField10 is invalid.
+Line 204: The property name _ExtentY in ReportField10 is invalid.
+Line 205: The property name Campo in ReportField10 is invalid.
+Line 206: The property name Caption in ReportField10 is invalid.
+Line 223: The property name _ExtentX in ReportField3 is invalid.
+Line 224: The property name _ExtentY in ReportField3 is invalid.
+Line 225: The property name Caption in ReportField3 is invalid.
+Line 243: The property name _ExtentX in ReportField6 is invalid.
+Line 244: The property name _ExtentY in ReportField6 is invalid.
+Line 245: The property name Caption in ReportField6 is invalid.
+Line 263: The property name _ExtentX in ReportField7 is invalid.
+Line 264: The property name _ExtentY in ReportField7 is invalid.
+Line 265: The property name Caption in ReportField7 is invalid.
+Line 283: The property name _ExtentX in ReportField8 is invalid.
+Line 284: The property name _ExtentY in ReportField8 is invalid.
+Line 285: The property name Caption in ReportField8 is invalid.
+Line 303: The property name _ExtentX in ReportField9 is invalid.
+Line 304: The property name _ExtentY in ReportField9 is invalid.
+Line 305: The property name Campo in ReportField9 is invalid.
+Line 306: The property name Caption in ReportField9 is invalid.
+Line 323: The property name _ExtentX in ReportField12 is invalid.
+Line 324: The property name _ExtentY in ReportField12 is invalid.
+Line 325: The property name Campo in ReportField12 is invalid.
+Line 326: The property name Caption in ReportField12 is invalid.
+Line 343: The property name _ExtentX in ReportField13 is invalid.
+Line 344: The property name _ExtentY in ReportField13 is invalid.
+Line 345: The property name Campo in ReportField13 is invalid.
+Line 346: The property name Caption in ReportField13 is invalid.
+Line 363: The property name _ExtentX in ReportField14 is invalid.
+Line 364: The property name _ExtentY in ReportField14 is invalid.
+Line 365: The property name Campo in ReportField14 is invalid.
+Line 366: The property name Caption in ReportField14 is invalid.
+Line 383: The property name _ExtentX in ReportField17 is invalid.
+Line 384: The property name _ExtentY in ReportField17 is invalid.
+Line 385: The property name Caption in ReportField17 is invalid.
+Line 403: The property name _ExtentX in ReportField18 is invalid.
+Line 404: The property name _ExtentY in ReportField18 is invalid.
+Line 405: The property name Campo in ReportField18 is invalid.
+Line 406: The property name Caption in ReportField18 is invalid.
